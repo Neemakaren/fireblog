@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Licorice&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Ruthie&display=swap');
+
+
+
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+::-webkit-scrollbar-track {
+    /* background: #A5A5A5; */
+    background: black;
+}
+
+::-webkit-scrollbar-thumb {
+    /* background: rgb(70,70,70); */
+    background: rgb(220, 153, 29);
+}
